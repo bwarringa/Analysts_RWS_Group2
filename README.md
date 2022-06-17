@@ -1,1 +1,1 @@
-# THIS IS A REPOSITORY FOR MODEL BASED DECISION MAKING - EPA1361
+# This is a repository for the course model based decision making - EPA1361
